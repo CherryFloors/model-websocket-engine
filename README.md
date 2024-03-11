@@ -6,7 +6,7 @@ POC of a model solving engine communicating with a frontend using websockets
 2. Install dependencies with `pipenv sync`
 3. Start the engine server with `inv eng` (runs on port 8765 by default)
 4. Start the UI server with `inv ui` (runs on port 8000 by default)
-5. Open the UI by navigating to [http://localhost:8000]
+5. Open the UI by navigating to (http://localhost:8000)
 
 
 #### Running the server with external access
